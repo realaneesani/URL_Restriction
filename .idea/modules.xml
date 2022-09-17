@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/URL_Restriction.iml" filepath="$PROJECT_DIR$/.idea/modules/URL_Restriction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/URL_Restriction.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.iml" filepath="$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/url-resteriction/URL_Restriction.url-resteriction.unitTest.iml" />
+    </modules>
+  </component>
+</project>
